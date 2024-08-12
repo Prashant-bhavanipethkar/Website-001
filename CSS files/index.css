@@ -1,0 +1,56 @@
+.logo{
+    height: 150px;   
+}
+
+.p-font-size{
+    font-size: 23px;
+}
+
+.image1{
+    height: 300px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.container{
+    display: flex;
+}
+
+.margin-top{
+    margin-top: 80px;
+}
+
+.text-container{
+    margin-top: 25px;
+}
+
+.card-container{
+    display: flex;
+    width: 800px;
+    height: 250px;
+    margin: 0px auto;
+}
+
+.card{
+    background-color: #ffdeda;
+    width: 180px;
+    height: 180px;
+    border-radius: 20px;
+    margin:10px;
+}
+
+.icon{
+    height: 60px;
+    display: block;
+    margin: 15px auto;
+    padding: 15px;
+    padding-bottom: 0px;
+}
+
+.font-size3{
+    font-size: 20px;
+
+}
+    

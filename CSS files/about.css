@@ -1,0 +1,25 @@
+.image{
+    border-radius: 20px;
+    height: 500px;
+    
+}
+
+.image2{
+    border-radius: 20px;
+}
+
+.image-container1{
+    width: 820px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.discription-container{
+    width: 800px;
+   display: block;
+}
+
+.about-container{
+    display: flex;
+    margin-top: 80px;
+}
